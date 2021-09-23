@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urooj-a
 - 👀 I’m interested in learning all types of coding languages regarding web development, video games, and apps!
 - 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything related to WebDev & apps!
 - 📫 How to reach me: uroojansari9.21@gmail.com
 
 <!---
